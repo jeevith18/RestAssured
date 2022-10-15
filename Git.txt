@@ -1,0 +1,9 @@
+GIT-HUB:
+
+1. Select the folder you want to use for GIT.
+2. Command to create and update git repository:
+
+	git init --> Initialise the repository, create .git hidden file/
+	git add sample.txt
+	git commit -m "This is my first file"
+	
