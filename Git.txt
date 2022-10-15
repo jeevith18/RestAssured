@@ -6,4 +6,5 @@ GIT-HUB:
 	git init --> Initialise the repository, create .git hidden file/
 	git add sample.txt
 	git commit -m "This is my first file"
-	
+
+Enjoy Github	
